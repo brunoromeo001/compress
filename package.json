@@ -1,0 +1,20 @@
+{
+  "name": "compress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "audio-extensions": "^0.0.0",
+    "chokidar": "^3.5.3",
+    "fluent-ffmpeg": "^2.1.2",
+    "image-extensions": "^1.1.0",
+    "video-extensions": "^1.2.0"
+  }
+}
